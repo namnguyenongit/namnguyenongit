@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @namnguyenongit, a student in UET - University of Engineering and Technology
+
 - 👀 I’m interested in web development and currently working on it
+
 - 💞️ I’m looking to collaborate on projects that need an UI developer to improve my knowledge
+
 - 📫 For work: namnguyenly2k1@gmail.com
 
 <!---
