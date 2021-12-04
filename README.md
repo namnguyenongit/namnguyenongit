@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on projects that need an UI developer to improve my knowledge and skills
 
-- 📫 For work: namnguyenly2k1@gmail.com
+- 📫 For work: namnv.forwork@gmail.com
 
 <!---
 namnguyenongit/namnguyenongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
