@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namnguyenongit, a student in UET - University of Engineering and Technology
+- 👋 Hi, I’m @namnv2001, a student in UET - University of Engineering and Technology
 
 - 👀 I’m interested in web development and currently working on it
 
