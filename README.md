@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @namnv2001, a student in UET - University of Engineering and Technology
-
-- 👀 I’m interested in web development and currently working on it
-
-- 💞️ I’m looking to collaborate on projects that need an UI developer to improve my knowledge and skills
-
+- 👋 Hi, I’m Nam Nguyen Van, a Software Engineer at Teko Solution with more than 2 years of experience
+- 👀 I’m interested in web development, specifically front-end development and its related technologies
 - 📫 For work: namnv.forwork@gmail.com
-
-<!---
-namnguyenongit/namnguyenongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
